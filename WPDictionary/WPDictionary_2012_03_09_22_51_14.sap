@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProfilerSession Type="MemoryPerformanceAnalysis" Name="WPDictionary634669302741276260">
+  <TargetApplication Name="WPDictionary" SourceProject="WPDictionary.csproj" Type="WindowsPhone71">
+    <ApplicationBinary Path="Bin\Debug\WPDictionary.xap" Timestamp="11.2.2012 г. 18:41:36 ч." />
+    <ApplicationIconPath Path="" />
+    <SymbolPaths>
+      <Path Value="Bin\Debug\" />
+    </SymbolPaths>
+  </TargetApplication>
+  <Settings>
+    <Probe Name="Visual">
+      <CollectElementLevelCosting Enabled="False" />
+      <CollectSnapshots Enabled="False" Interval="" Resampling="" />
+      <CollectMediaEvents Enabled="False" />
+      <CollectCacheDetails Enabled="False" />
+    </Probe>
+    <Probe Name="Code">
+      <SampleCallStack Enabled="False" Depth="" Interval="" />
+      <CollectPerformanceCounters Enabled="False" />
+    </Probe>
+    <Probe Name="Memory">
+      <MemoryCallStack Enabled="True" Depth="4" />
+      <ObjectTree Enabled="True" Interval="5" />
+    </Probe>
+  </Settings>
+  <Data>
+    <Logs>
+      <File Type="NativeFormat" Path="PerformanceLogs\WPDictionary634669302741276260\tmpE5C6.tmp" />
+    </Logs>
+  </Data>
+  <TargetDeviceSettings OSVersion="7.10.8731" AvailablePhysicalMemoryAtStartup="139550720" ProcessorArchitectureType="Intel" ProcessorInformation="X86" IsEmulator="True" />
+</ProfilerSession>

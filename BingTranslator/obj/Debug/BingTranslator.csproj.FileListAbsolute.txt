@@ -1,0 +1,5 @@
+D:\MyFiles\Projects\WPDictionary\BingTranslator\obj\Debug\ResolveAssemblyReference.cache
+D:\MyFiles\Projects\WPDictionary\BingTranslator\Bin\Debug\BingTranslator.dll
+D:\MyFiles\Projects\WPDictionary\BingTranslator\Bin\Debug\BingTranslator.pdb
+D:\MyFiles\Projects\WPDictionary\BingTranslator\obj\Debug\BingTranslator.dll
+D:\MyFiles\Projects\WPDictionary\BingTranslator\obj\Debug\BingTranslator.pdb
